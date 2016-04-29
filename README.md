@@ -5,6 +5,9 @@
 * 实现了引导页
 * 给AppDelegate.m中的代码瘦身，把一些初始化工作放到AppStart.m中
 * 使用[https://github.com/JNTian/JTNavigationController](https://github.com/JNTian/JTNavigationController)实现了全屏滑动返回，可以在需要关闭的页面单独关闭。修改该框架内容（增加了present方法）
+* 未加其他第三方库
+* 未做iOS9适配
+* 添加部分宏定义
 
 ---
 建议
